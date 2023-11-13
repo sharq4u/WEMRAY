@@ -166,7 +166,7 @@ body:before {
 
 #loader {
     background: #1d1f39 url(stash/spiral-css-preloader.gif) no-repeat center center;
-    height: 100vh;
+    height: auto;
     width: 100%;
     position: fixed;
     z-index: 100;
